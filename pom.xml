@@ -51,9 +51,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.hierynomus</groupId>
-      <artifactId>sshj</artifactId>
-      <version>0.31.0</version>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>31.1-jre</version>
     </dependency>
   </dependencies>
 
